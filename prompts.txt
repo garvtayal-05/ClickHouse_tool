@@ -1,1 +1,12 @@
-# AI prompts used will be saved here
+
+### 3. prompts.txt (if using AI tools)
+```text
+1. "Generate a Spring Boot controller for ClickHouse ingestion with:
+   - File upload endpoint
+   - Schema detection
+   - JWT security"
+
+2. "Create React components for:
+   - File uploader with progress bar
+   - ClickHouse table selector
+   - Ingestion status dashboard"
